@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/anti_shadowsocksR.dir/main.cpp.o  -o anti_shadowsocksR  -lpcap -lcrypto -lz -lsodium 
